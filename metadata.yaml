@@ -1,0 +1,25 @@
+_repo: Gedichte_52219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Becker, Julius Maria
+    birthdate: 1887
+    deathdate: 1949
+    gutenberg_agent_id: '46728'
+    url: http://www.gutenberg.org/2009/agents/46728
+    wikipedia: https://de.wikipedia.org/wiki/Julius_Maria_Becker
+description: ''
+gutenberg_issued: '2016-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52219'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry'
+- !lcc 'PT'
+- GITenberg
+title: Gedichte
+url: http://www.gutenberg.org/ebooks/52219
